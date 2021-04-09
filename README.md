@@ -5,6 +5,8 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 ### Week 1
 1. [Link Exercício de Melhoria na obtenção de imagens](https://colab.research.google.com/drive/1Un2tx5SD-6LMVIwwlOUnIag39zBS66-k?usp=sharing)
 2. [Link Exercício 1](https://github.com/jeronimopenha/inf792/edit/main/README.md)
+3. [Link Exercício 2](https://github.com/jeronimopenha/inf792/edit/main/README.md)
+4. [Link Exercício 3](https://github.com/jeronimopenha/inf792/edit/main/README.md)
 
 ### Week 2 = [Link Resposta](https://colab.research.google.com/drive/1Vf-Twvb4nV8QhN1DRigz1q-rFbpoy3QZ?usp=sharing)
 

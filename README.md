@@ -5,7 +5,7 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 ### Week 1
 1. [Link Exercício de Melhoria na obtenção de imagens](https://colab.research.google.com/drive/1Un2tx5SD-6LMVIwwlOUnIag39zBS66-k?usp=sharing)
 2. [Link Exercício 1 - 10 animais silvestres](https://colab.research.google.com/drive/12jmlA9Q8Hk5MHDgNVWBzlN87cJL7c0iJ?usp=sharing)
-3. [Link Exercício 2](https://github.com/jeronimopenha/inf792/edit/main/README.md)
+3. [Link Exercício 2 - Raças Caninas](https://colab.research.google.com/drive/1aHhk7ji-vgBG-PXL_Yni5cWVL5JLgJFG?usp=sharing)
 4. [Link Exercício 3](https://github.com/jeronimopenha/inf792/edit/main/README.md)
 
 ### Week 2 = [Link Resposta](https://colab.research.google.com/drive/1Vf-Twvb4nV8QhN1DRigz1q-rFbpoy3QZ?usp=sharing)

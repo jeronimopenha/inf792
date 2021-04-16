@@ -6,7 +6,7 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 1. [Link resposta do Exercício 0 - Melhoria na obtenção de imagens](https://colab.research.google.com/drive/1Un2tx5SD-6LMVIwwlOUnIag39zBS66-k?usp=sharing)
 2. [Link resposta do Exercício 1 - 10 animais silvestres](https://colab.research.google.com/drive/12jmlA9Q8Hk5MHDgNVWBzlN87cJL7c0iJ?usp=sharing)
 3. [Link resposta do Exercício 2 - Raças Caninas (Melhorias)](https://colab.research.google.com/drive/1Ve5yQSLBXyJK5s7y_m-guG2oyFFa6Ri9?usp=sharing)
-4. [Link resposta do Exercício 3 - (Melhorias)](https://github.com/jeronimopenha/inf792/edit/main/README.md)
+4. [Link resposta do Exercício 3 - Utensilhos Domésticos (Melhorias)](https://colab.research.google.com/drive/1bIkoS8wUO5V2tFsUl93WPZ9NTrLjUz2P?usp=sharing)
 
 ### Week 2 = [Link Resposta do exercício](https://colab.research.google.com/drive/1Vf-Twvb4nV8QhN1DRigz1q-rFbpoy3QZ?usp=sharing)
 

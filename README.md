@@ -13,3 +13,7 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 ### Week 3
 1. [Link Resposta do exercício 1 - Diagrama_de_Voronoi.ipynb](https://colab.research.google.com/drive/1wxSrU4GUL1MZp-8J_UjuzFNTrpwnd8y4?usp=sharing)
 2. [Link Resposta do exercício 2](https://github.com/jeronimopenha/inf792)
+
+### Week 4
+
+### Week 5

@@ -14,6 +14,6 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 1. [Link Resposta do exercício 1 - Diagrama_de_Voronoi.ipynb](https://colab.research.google.com/drive/1wxSrU4GUL1MZp-8J_UjuzFNTrpwnd8y4?usp=sharing)
 2. [Link Resposta do exercício 2 - Diagrama de Inertia](https://colab.research.google.com/drive/1c9pUNYjDyJAC6H0TfFHE_c6vUfQvVtwt?usp=sharing)
 
-### Week 4
+### Week 4 = [Link Resposta do exercício](https://colab.research.google.com/drive/1A_jIG6OVx7xQY6i1V1wbj46_jslVwmaQ?usp=sharing)
 
 ### Week 5 = Questionário entregue.

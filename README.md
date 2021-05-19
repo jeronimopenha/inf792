@@ -17,3 +17,11 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 ### Week 4 = [Link Resposta do exercício](https://colab.research.google.com/drive/14K6fSxMpfKu_rMyYlxr4KdPduw9lVRtT?usp=sharing)
 
 ### Week 5 = Questionário entregue.
+
+### Week 6 = Questionário entregue.
+
+### Week 7 = Questionário entregue.
+
+### Week 8 = [Link do colab insetps MRCNN](https://colab.research.google.com/drive/1A5jDjV1gKtSTWNhfRtdAkEjsai_RR6rJ?usp=sharing)
+
+### Week 5 = 

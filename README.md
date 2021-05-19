@@ -22,6 +22,6 @@ Respostas para as atividades propostas pela disciplina INF 792 do Doutorado em C
 
 ### Week 7 = Questionário entregue.
 
-### Week 8 = [Link do colab insetps MRCNN](https://colab.research.google.com/drive/1A5jDjV1gKtSTWNhfRtdAkEjsai_RR6rJ?usp=sharing)
+### Week 8 = [Link do colab insects MRCNN](https://colab.research.google.com/drive/1A5jDjV1gKtSTWNhfRtdAkEjsai_RR6rJ?usp=sharing)
 
 ### Week 5 = 
